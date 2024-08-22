@@ -1,7 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : K MADHAVA REDDY
-Roll no : 212223240064
-Date of experiment : 22-08-2024
+
+##### Name : K MADHAVA REDDY
+##### Roll no : 212223240064
+##### Date of experiment : 22-08-2024
 
 
 
